@@ -18,7 +18,7 @@
   * git init [project-name]
     * Creates a new local repository with the specified name
   * git clone [url]
-    * Downloads a project nd its entire version history
+    * Downloads a project and its entire version history
 
  * Make changes
   * git status
